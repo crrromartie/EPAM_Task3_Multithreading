@@ -1,0 +1,154 @@
+2020-10-12T19:34:12,423 [pool-2-thread-1] INFO  gaponenko.thread.state.impl.LoadStateImpl - Ship 1 try to load at berth 1
+2020-10-12T19:34:12,434 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 1
+2020-10-12T19:34:12,535 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 1
+2020-10-12T19:34:12,636 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 1
+2020-10-12T19:34:12,739 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 1
+2020-10-12T19:34:12,840 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 1
+2020-10-12T19:34:12,942 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Ship 1  is full!
+2020-10-12T19:34:12,942 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Ship 1 was loaded!
+2020-10-12T19:34:12,943 [pool-2-thread-1] INFO  gaponenko.thread.state.impl.LeaveStateImpl - Ship 1 left port!
+2020-10-12T19:34:13,098 [pool-2-thread-2] INFO  gaponenko.thread.state.impl.ArriveStateImpl - Ship 2 arrive at berth 2
+2020-10-12T19:34:13,098 [pool-2-thread-2] INFO  gaponenko.thread.state.impl.UnloadStateImpl - Ship 2 try to unload at berth 2
+2020-10-12T19:34:13,099 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 2
+2020-10-12T19:34:13,200 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 2
+2020-10-12T19:34:13,301 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Ship 2 is empty!
+2020-10-12T19:34:13,301 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Ship 2 was unloaded!
+2020-10-12T19:34:13,301 [pool-2-thread-2] INFO  gaponenko.thread.state.impl.LoadStateImpl - Ship 2 try to load at berth 2
+2020-10-12T19:34:13,301 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 2
+2020-10-12T19:34:13,404 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 2
+2020-10-12T19:34:13,505 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 2
+2020-10-12T19:34:13,606 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 2
+2020-10-12T19:34:13,707 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 2
+2020-10-12T19:34:13,808 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Ship 2  is full!
+2020-10-12T19:34:13,808 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Ship 2 was loaded!
+2020-10-12T19:34:13,808 [pool-2-thread-2] INFO  gaponenko.thread.state.impl.LeaveStateImpl - Ship 2 left port!
+2020-10-12T19:34:14,099 [pool-2-thread-3] INFO  gaponenko.thread.state.impl.ArriveStateImpl - Ship 3 arrive at berth 1
+2020-10-12T19:34:14,100 [pool-2-thread-3] INFO  gaponenko.thread.state.impl.UnloadStateImpl - Ship 3 try to unload at berth 1
+2020-10-12T19:34:14,100 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 3
+2020-10-12T19:34:14,201 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 3
+2020-10-12T19:34:14,303 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Ship 3 is empty!
+2020-10-12T19:34:14,303 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Ship 3 was unloaded!
+2020-10-12T19:34:14,303 [pool-2-thread-3] INFO  gaponenko.thread.state.impl.LoadStateImpl - Ship 3 try to load at berth 1
+2020-10-12T19:34:14,304 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 3
+2020-10-12T19:34:14,406 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 3
+2020-10-12T19:34:14,507 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 3
+2020-10-12T19:34:14,608 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 3
+2020-10-12T19:34:14,710 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 3
+2020-10-12T19:34:14,811 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Ship 3  is full!
+2020-10-12T19:34:14,811 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Ship 3 was loaded!
+2020-10-12T19:34:14,812 [pool-2-thread-3] INFO  gaponenko.thread.state.impl.LeaveStateImpl - Ship 3 left port!
+2020-10-12T19:34:15,100 [pool-2-thread-4] INFO  gaponenko.thread.state.impl.ArriveStateImpl - Ship 4 arrive at berth 2
+2020-10-12T19:34:15,101 [pool-2-thread-4] INFO  gaponenko.thread.state.impl.UnloadStateImpl - Ship 4 try to unload at berth 2
+2020-10-12T19:34:15,101 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 4
+2020-10-12T19:34:15,203 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 4
+2020-10-12T19:34:15,304 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 4
+2020-10-12T19:34:15,405 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 4
+2020-10-12T19:34:15,506 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Ship 4 is empty!
+2020-10-12T19:34:15,506 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Ship 4 was unloaded!
+2020-10-12T19:34:15,506 [pool-2-thread-4] INFO  gaponenko.thread.state.impl.LoadStateImpl - Ship 4 try to load at berth 2
+2020-10-12T19:34:15,507 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 4
+2020-10-12T19:34:15,609 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 4
+2020-10-12T19:34:15,710 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 4
+2020-10-12T19:34:15,811 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 4
+2020-10-12T19:34:15,912 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 4
+2020-10-12T19:34:16,013 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Ship 4  is full!
+2020-10-12T19:34:16,013 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Ship 4 was loaded!
+2020-10-12T19:34:16,013 [pool-2-thread-4] INFO  gaponenko.thread.state.impl.LeaveStateImpl - Ship 4 left port!
+2020-10-12T19:34:16,101 [pool-2-thread-5] INFO  gaponenko.thread.state.impl.ArriveStateImpl - Ship 5 arrive at berth 1
+2020-10-12T19:34:16,102 [pool-2-thread-5] INFO  gaponenko.thread.state.impl.UnloadStateImpl - Ship 5 try to unload at berth 1
+2020-10-12T19:34:16,102 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 5
+2020-10-12T19:34:16,204 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 5
+2020-10-12T19:34:16,305 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 5
+2020-10-12T19:34:16,406 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Ship 5 is empty!
+2020-10-12T19:34:16,406 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Ship 5 was unloaded!
+2020-10-12T19:34:16,406 [pool-2-thread-5] INFO  gaponenko.thread.state.impl.LoadStateImpl - Ship 5 try to load at berth 1
+2020-10-12T19:34:16,407 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 5
+2020-10-12T19:34:16,508 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 5
+2020-10-12T19:34:16,609 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 5
+2020-10-12T19:34:16,710 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 5
+2020-10-12T19:34:16,811 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Ship 5 was loaded!
+2020-10-12T19:34:16,811 [pool-2-thread-5] INFO  gaponenko.thread.state.impl.LeaveStateImpl - Ship 5 left port!
+2020-10-12T19:34:18,102 [main] INFO  by.gaponenko.thread.runner.ShipThreadRunner - Final storage: 0
+2020-10-12T20:12:13,461 [main] INFO  by.gaponenko.thread.reader.DataReader - File read successfully!
+2020-10-12T20:12:13,478 [main] INFO  by.gaponenko.thread.parser.DataParser - List parsed successfully!
+2020-10-12T20:12:13,491 [main] INFO  by.gaponenko.thread.creator.ShipCreator - List ships created successfully!
+2020-10-12T20:12:13,492 [main] INFO  by.gaponenko.thread.runner.ShipThreadRunner - Start storage: 10
+2020-10-12T20:12:13,495 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Port - Port created!
+2020-10-12T20:12:13,497 [pool-2-thread-1] INFO  thread.entity.state.impl.ArriveStateImpl - Ship 1 arrive at berth 1
+2020-10-12T20:12:13,497 [pool-2-thread-1] INFO  thread.entity.state.impl.UnloadStateImpl - Ship 1 try to unload at berth 1
+2020-10-12T20:12:13,498 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 1
+2020-10-12T20:12:13,599 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 1
+2020-10-12T20:12:13,700 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 1
+2020-10-12T20:12:13,801 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Ship 1 is empty!
+2020-10-12T20:12:13,801 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Ship 1 was unloaded!
+2020-10-12T20:12:13,802 [pool-2-thread-1] INFO  thread.entity.state.impl.LoadStateImpl - Ship 1 try to load at berth 1
+2020-10-12T20:12:13,802 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 1
+2020-10-12T20:12:13,904 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 1
+2020-10-12T20:12:14,006 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 1
+2020-10-12T20:12:14,107 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 1
+2020-10-12T20:12:14,208 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 1
+2020-10-12T20:12:14,311 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Ship 1  is full!
+2020-10-12T20:12:14,312 [pool-2-thread-1] INFO  by.gaponenko.thread.entity.Storage - Ship 1 was loaded!
+2020-10-12T20:12:14,313 [pool-2-thread-1] INFO  thread.entity.state.impl.LeaveStateImpl - Ship 1 left port!
+2020-10-12T20:12:14,496 [pool-2-thread-2] INFO  thread.entity.state.impl.ArriveStateImpl - Ship 2 arrive at berth 2
+2020-10-12T20:12:14,498 [pool-2-thread-2] INFO  thread.entity.state.impl.UnloadStateImpl - Ship 2 try to unload at berth 2
+2020-10-12T20:12:14,498 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 2
+2020-10-12T20:12:14,599 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 2
+2020-10-12T20:12:14,700 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Ship 2 is empty!
+2020-10-12T20:12:14,700 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Ship 2 was unloaded!
+2020-10-12T20:12:14,701 [pool-2-thread-2] INFO  thread.entity.state.impl.LoadStateImpl - Ship 2 try to load at berth 2
+2020-10-12T20:12:14,701 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 2
+2020-10-12T20:12:14,805 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 2
+2020-10-12T20:12:14,906 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 2
+2020-10-12T20:12:15,007 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 2
+2020-10-12T20:12:15,110 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 2
+2020-10-12T20:12:15,212 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Ship 2  is full!
+2020-10-12T20:12:15,212 [pool-2-thread-2] INFO  by.gaponenko.thread.entity.Storage - Ship 2 was loaded!
+2020-10-12T20:12:15,213 [pool-2-thread-2] INFO  thread.entity.state.impl.LeaveStateImpl - Ship 2 left port!
+2020-10-12T20:12:15,498 [pool-2-thread-3] INFO  thread.entity.state.impl.ArriveStateImpl - Ship 3 arrive at berth 1
+2020-10-12T20:12:15,499 [pool-2-thread-3] INFO  thread.entity.state.impl.UnloadStateImpl - Ship 3 try to unload at berth 1
+2020-10-12T20:12:15,499 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 3
+2020-10-12T20:12:15,600 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 3
+2020-10-12T20:12:15,703 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Ship 3 is empty!
+2020-10-12T20:12:15,703 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Ship 3 was unloaded!
+2020-10-12T20:12:15,703 [pool-2-thread-3] INFO  thread.entity.state.impl.LoadStateImpl - Ship 3 try to load at berth 1
+2020-10-12T20:12:15,704 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 3
+2020-10-12T20:12:15,805 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 3
+2020-10-12T20:12:15,907 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 3
+2020-10-12T20:12:16,009 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 3
+2020-10-12T20:12:16,109 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 3
+2020-10-12T20:12:16,211 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Ship 3  is full!
+2020-10-12T20:12:16,211 [pool-2-thread-3] INFO  by.gaponenko.thread.entity.Storage - Ship 3 was loaded!
+2020-10-12T20:12:16,212 [pool-2-thread-3] INFO  thread.entity.state.impl.LeaveStateImpl - Ship 3 left port!
+2020-10-12T20:12:16,498 [pool-2-thread-4] INFO  thread.entity.state.impl.ArriveStateImpl - Ship 4 arrive at berth 2
+2020-10-12T20:12:16,499 [pool-2-thread-4] INFO  thread.entity.state.impl.UnloadStateImpl - Ship 4 try to unload at berth 2
+2020-10-12T20:12:16,499 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 4
+2020-10-12T20:12:16,599 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 4
+2020-10-12T20:12:16,701 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 4
+2020-10-12T20:12:16,802 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 4
+2020-10-12T20:12:16,903 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Ship 4 is empty!
+2020-10-12T20:12:16,903 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Ship 4 was unloaded!
+2020-10-12T20:12:16,903 [pool-2-thread-4] INFO  thread.entity.state.impl.LoadStateImpl - Ship 4 try to load at berth 2
+2020-10-12T20:12:16,904 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 4
+2020-10-12T20:12:17,004 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 4
+2020-10-12T20:12:17,106 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 4
+2020-10-12T20:12:17,207 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 4
+2020-10-12T20:12:17,308 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 4
+2020-10-12T20:12:17,409 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Ship 4  is full!
+2020-10-12T20:12:17,409 [pool-2-thread-4] INFO  by.gaponenko.thread.entity.Storage - Ship 4 was loaded!
+2020-10-12T20:12:17,409 [pool-2-thread-4] INFO  thread.entity.state.impl.LeaveStateImpl - Ship 4 left port!
+2020-10-12T20:12:17,499 [pool-2-thread-5] INFO  thread.entity.state.impl.ArriveStateImpl - Ship 5 arrive at berth 1
+2020-10-12T20:12:17,500 [pool-2-thread-5] INFO  thread.entity.state.impl.UnloadStateImpl - Ship 5 try to unload at berth 1
+2020-10-12T20:12:17,500 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 5
+2020-10-12T20:12:17,602 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 5
+2020-10-12T20:12:17,704 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was remove from the ship 5
+2020-10-12T20:12:17,806 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Ship 5 is empty!
+2020-10-12T20:12:17,806 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Ship 5 was unloaded!
+2020-10-12T20:12:17,806 [pool-2-thread-5] INFO  thread.entity.state.impl.LoadStateImpl - Ship 5 try to load at berth 1
+2020-10-12T20:12:17,807 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 5
+2020-10-12T20:12:17,911 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 5
+2020-10-12T20:12:18,011 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 5
+2020-10-12T20:12:18,112 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Container was added to the ship 5
+2020-10-12T20:12:18,213 [pool-2-thread-5] INFO  by.gaponenko.thread.entity.Storage - Ship 5 was loaded!
+2020-10-12T20:12:18,213 [pool-2-thread-5] INFO  thread.entity.state.impl.LeaveStateImpl - Ship 5 left port!
+2020-10-12T20:12:19,501 [main] INFO  by.gaponenko.thread.runner.ShipThreadRunner - Final storage: 0
